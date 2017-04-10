@@ -21,7 +21,6 @@ public class Stack {
 	}
 
 	public boolean isEmpty() {
-		// TODO Auto-generated method stub
 		return false;
 	}
 	
