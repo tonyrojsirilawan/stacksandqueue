@@ -15,9 +15,14 @@ public class Stack {
 		
 	}
 	
-	public static Stack peek(Stack st){
+	public static String peek(String a){
 		System.out.println("Peek -> ");
-		return st;
+		return a;
+	}
+
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
 	}
 	
 }
