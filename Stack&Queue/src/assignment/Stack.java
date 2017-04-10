@@ -15,4 +15,9 @@ public class Stack {
 		
 	}
 	
+	public static Stack peek(Stack st){
+		System.out.println("Peek -> ");
+		return st;
+	}
+	
 }
